@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "Ratnesh",
+    "email": "ratnesh.test@gmail.com",
+    "phone": "123456789",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "organization": "Organization 01",
+    "jobProfile": "Software Engineer",
+    "additionalInfo": "He is interested in investing into share market"
+}
